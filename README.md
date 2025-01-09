@@ -1,4 +1,4 @@
 # demo
 Demo learning repository
 <br>
-Author - DB
+Author - DBstar
